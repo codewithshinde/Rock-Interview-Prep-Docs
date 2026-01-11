@@ -1,4 +1,4 @@
-# React `useCallback` (Simple Notes + Advanced Coverage)
+# `useCallback`
 
 ## 1. One-line definition
 
